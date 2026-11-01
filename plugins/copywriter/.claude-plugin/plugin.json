@@ -1,0 +1,13 @@
+{
+  "name": "copywriter",
+  "version": "1.0.0",
+  "description": "Write or rewrite selling copy (hooks, cold emails, DMs, sales pages, posts, scripts), then humanize it so it reads like a person wrote it.",
+  "author": {
+    "name": "David Okoro",
+    "url": "https://github.com/Okorodavid"
+  },
+  "homepage": "https://github.com/Okorodavid/copywriter-skill",
+  "repository": "https://github.com/Okorodavid/copywriter-skill",
+  "license": "MIT",
+  "keywords": ["copywriting", "marketing", "sales", "cold-email", "humanizer", "skill"]
+}
