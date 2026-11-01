@@ -1,6 +1,6 @@
 ---
 name: copywriter
-description: Write or rewrite selling copy, then humanize it so it reads like a person wrote it. Use when someone asks to make copy better, write a hook, headline or subject line, or write or rewrite a cold email, DM, follow-up, sales page, landing page, social post, video script, flyer, ad, sales script or offer. Uses notes from Cialdini, Bly, Harry Dry, Tyson 4D and Stefan Georgi, then runs a humanizer pass last.
+description: Write or rewrite selling copy, then humanize it so it reads like a person wrote it. Use when someone asks to make copy better, write a hook, headline or subject line, or write or rewrite a cold email, DM, follow-up, sales page, landing page, social post, video script, flyer, ad, sales script or offer. Uses notes from Cialdini, Bly, Hormozi, Harry Dry, Tyson 4D and Stefan Georgi, then runs a humanizer pass last.
 ---
 
 # Copywriter (copy first, humanizer last)
@@ -23,7 +23,10 @@ Always read `references/playbook.md` first. Then open the notes for the job in h
 | Landing or sales page | `references/landing-pages-and-websites.md`, `references/clear-writing-and-selling.md`, `references/persuasion-levers.md` |
 | Flyer, brochure, letter | `references/print-flyers-and-letters.md` |
 | Video script, ads, PR, content | `references/social-video-ads-content.md` |
-| Sales call or in-person script, closing, pricing | `references/persuasion-levers.md` (commitment ladder, contrast and anchors) |
+| Offer, price, guarantee, bonus, offer name | `references/hormozi-offers-leads.md`, `references/persuasion-levers.md` (contrast and anchors) |
+| Lead magnet, ads, content hooks, cold outreach follow-up | `references/hormozi-offers-leads.md` |
+| Selling AI or a service whose value is invisible | `references/hormozi-offers-leads.md` (sell the problem) |
+| Sales call or in-person script, closing | `references/persuasion-levers.md` (commitment ladder) |
 | A product with no customers yet | `references/persuasion-levers.md` (the zero-customers section) |
 | Research before writing | `references/clear-writing-and-selling.md` |
 | Reviewing someone's copy | `references/social-video-ads-content.md` (reviewing copy) |
@@ -62,6 +65,20 @@ Humanizer rules: `references/humanizer.md`.
    - Read it aloud. It's done when no word can be added or removed.
 8. **Keep anything unproven in [brackets]:** amounts, dates, results, stats, reviews and clients the user hasn't given. Never invent a number. To make a real number land, change its time frame: a loss per year, a price per day.
 9. **Headlines and hooks:** write 4-5 options using different headline types, score them on the 4 U's, and lead with the best. When a structure works, borrow it from real examples. Copy the structure, never the words.
+
+## Offer and hook rules (Hormozi)
+
+Details in `references/hormozi-offers-leads.md`. These sit under the honesty rules above.
+- **Sell the problem, not the tool.** Nobody wants "AI"; they want the result. Put a money number on the pain, ideally one they gave you. When good work is invisible, talk about what one failure costs.
+- **Value equation:** value rises with the dream outcome (how others will see them) and their belief it will work (proof, guarantee), and falls with waiting time and effort. Win on the bottom: a fast first win and done-for-you.
+- **Hooks: proof, promise, plan.** Reuse hooks that win; trust the data over cleverness.
+- **Posts = hook + retain + reward.** Headlines use 2+ of: recency, relevance, a well-known name, closeness, conflict, unusual, ongoing. Retain with lists, steps or stories. Say "how I", not "how to". Give 3-4 times for every ask.
+- **Ads = callout + value + CTA.** The first 5 seconds call out the buyer.
+- **Offers:** answer every doubt (not worth it, won't work for me, too hard, too slow). Name it with MAGIC (reason why, avatar, goal, interval, container word). Guarantees take the shape "If you don't get X in Y, we Z". Add a named bonus instead of a discount.
+- **Lead magnets:** solve one narrow problem that reveals the next. Be specific about the bad, vaguer about the good.
+- **CTA:** clear, not clever, with a true reason to act now.
+- **Cold outreach:** 1-3 things a friend would know, real free value (never a disguised sales call), more follow-ups in more ways. When they reply: acknowledge, compliment, ask.
+- **When copy stops working,** change the creative, then the body, then the headline, and the offer last.
 
 ## Format rules
 

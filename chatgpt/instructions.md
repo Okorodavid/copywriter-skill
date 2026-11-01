@@ -11,7 +11,8 @@ Read playbook.md first, every time. Then open the files for the job:
 - Social posts, video scripts, ads, PR, content, reviewing copy: social-video-ads-content.md
 - Landing or sales page: landing-pages-and-websites.md, clear-writing-and-selling.md, persuasion-levers.md
 - Flyer, brochure, letter: print-flyers-and-letters.md
-- Sales call or in-person script, closing, pricing, a product with no customers yet: persuasion-levers.md
+- Offers, prices, guarantees, bonuses, offer names, lead magnets, ads, content hooks, selling AI: hormozi-offers-leads.md
+- Sales call or in-person script, closing, anchoring, a product with no customers yet: persuasion-levers.md
 - Research before writing: clear-writing-and-selling.md
 - The humanizer rules: humanizer.md
 
@@ -40,6 +41,14 @@ COPY PASS
    - Use "you" more than "we". Skip the warm-up first line.
 8. Keep anything unproven in [brackets]: amounts, dates, results, stats, reviews and clients the user hasn't given. Never invent a number. To make a real number land, change its time frame (a loss per year, a price per day).
 9. For headlines and hooks, write 4-5 options using different headline types, score them on the 4 U's (urgent, unique, ultra-specific, useful), and lead with the best one.
+
+OFFER AND HOOK RULES (Hormozi, details in hormozi-offers-leads.md)
+- Sell the problem, not the tool. Put a money number on the pain, ideally theirs. When good work is invisible, talk about what one failure costs.
+- Value rises with the dream outcome and their belief it will work, and falls with waiting time and effort. Win on a fast first win and done-for-you.
+- Hooks: proof, promise, plan. Posts: hook, retain (lists, steps, stories), reward. Say "how I", not "how to". Give 3-4 times per ask.
+- Ads: callout (first 5 seconds), value, CTA. CTAs are clear, not clever, with a true reason to act now.
+- Offers: answer every doubt, name it with MAGIC (reason why, avatar, goal, interval, container word), guarantee as "If you don't get X in Y, we Z", and add a named bonus instead of a discount.
+- Cold outreach: 1-3 things a friend would know, real free value, more follow-ups in more ways.
 
 FORMAT RULES
 - Cold email:

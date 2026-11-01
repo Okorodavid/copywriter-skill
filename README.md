@@ -44,7 +44,7 @@ Copy-Item -Recurse copywriter-skill\plugins\copywriter\skills\copywriter $HOME\.
 
 ### ChatGPT
 
-Download [copywriter-chatgpt.zip](https://github.com/Okorodavid/copywriter-skill/releases/latest/download/copywriter-chatgpt.zip) and follow [chatgpt/SETUP.md](chatgpt/SETUP.md). You can set it up as a Custom GPT (paste the instructions, upload the 10 knowledge files) or as a ChatGPT Project.
+Download [copywriter-chatgpt.zip](https://github.com/Okorodavid/copywriter-skill/releases/latest/download/copywriter-chatgpt.zip) and follow [chatgpt/SETUP.md](chatgpt/SETUP.md). You can set it up as a Custom GPT (paste the instructions, upload the 11 knowledge files) or as a ChatGPT Project.
 
 ### Other agents
 
@@ -74,6 +74,7 @@ plugins/copywriter/skills/copywriter/
     social-video-ads-content.md    posts, scripts, online ads, PR, content
     persuasion-levers.md           Cialdini's 7 levers, used honestly
     lessons-dry-tyson-georgi.md    Harry Dry, Tyson 4D, Stefan Georgi
+    hormozi-offers-leads.md        Hormozi: offers, guarantees, hooks, lead magnets, ads, cold outreach
     humanizer.md                   the last pass
 chatgpt/                           Custom GPT instructions and setup
 scripts/build.py                   checks the files and builds both zips into dist/

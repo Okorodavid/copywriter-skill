@@ -10,7 +10,7 @@
       "name": "copywriter",
       "source": "./plugins/copywriter",
       "description": "Write or rewrite selling copy (hooks, cold emails, DMs, sales pages, posts, scripts), then humanize it so it reads like a person wrote it.",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "category": "productivity"
     }
   ]

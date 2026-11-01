@@ -1,6 +1,6 @@
 # Set up Copywriter in ChatGPT
 
-You need the files from `copywriter-chatgpt.zip` (from the repo's Releases page, or run `python scripts/build.py`). Unzip it. You get `instructions.md` and a `knowledge` folder with 10 files.
+You need the files from `copywriter-chatgpt.zip` (from the repo's Releases page, or run `python scripts/build.py`). Unzip it. You get `instructions.md` and a `knowledge` folder with 11 files.
 
 ## Option A: a Custom GPT (ChatGPT Plus, Team or Enterprise to build it; anyone can use it once shared)
 
@@ -13,7 +13,7 @@ You need the files from `copywriter-chatgpt.zip` (from the repo's Releases page,
    - Write 5 hooks for a TikTok about
    - Write a sales page for
    - Make this LinkedIn post sound less like AI:
-6. **Knowledge:** upload all 10 files from the `knowledge` folder.
+6. **Knowledge:** upload all 11 files from the `knowledge` folder.
 7. **Capabilities:** turn off Image generation. Web search and Code interpreter can stay on or off.
 8. Press **Create**, then choose who can see it: only you, anyone with the link, or the GPT Store.
 
@@ -21,7 +21,7 @@ You need the files from `copywriter-chatgpt.zip` (from the repo's Releases page,
 
 1. In the ChatGPT sidebar, click **New project** and name it Copywriter.
 2. Open the project's **Instructions** and paste everything in `instructions.md`.
-3. Add the 10 files from the `knowledge` folder as **project files**.
+3. Add the 11 files from the `knowledge` folder as **project files**.
 4. Start every copy chat inside that project.
 
 ## Check it works
