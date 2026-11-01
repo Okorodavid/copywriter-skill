@@ -8,7 +8,7 @@ It runs two passes:
 
 You get the best version first, a few alternatives with one line each on why they work, and the [brackets] you need to fill in.
 
-Works for hooks, headlines, subject lines, cold emails, DMs, sales pages, landing pages, social posts, video scripts, flyers, ads and offers.
+Works for hooks, headlines, subject lines, cold emails, DMs, follow-ups, sales pages, landing pages, social posts, video scripts, flyers, ads, sales scripts and offers.
 
 ## Install
 
