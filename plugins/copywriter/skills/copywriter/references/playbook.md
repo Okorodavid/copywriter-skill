@@ -104,5 +104,6 @@ All the types, with examples, are in `headlines.md`.
 | `social-video-ads-content.md` | Social posts, video scripts, online ads, PR, content marketing |
 | `persuasion-levers.md` | The seven levers in depth, and proof with zero customers |
 | `hormozi-offers-leads.md` | Hormozi: offers, guarantees, hooks, content, ads, lead magnets, cold outreach |
+| `research-structure-editing.md` | Awareness stages, Rule of One brief, customer-words research, five questions, OCPB, CUB editing |
 | `lessons-dry-tyson-georgi.md` | Harry Dry's tests, Tyson 4D on cold outreach, Stefan Georgi on direct response and bullets |
 | `humanizer.md` | The last pass: strip the signs of AI writing |

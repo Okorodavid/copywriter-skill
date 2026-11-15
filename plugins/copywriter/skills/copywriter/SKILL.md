@@ -1,6 +1,6 @@
 ---
 name: copywriter
-description: Write or rewrite selling copy, then humanize it so it reads like a person wrote it. Use when someone asks to make copy better, write a hook, headline or subject line, or write or rewrite a cold email, DM, follow-up, sales page, landing page, social post, video script, flyer, ad, sales script or offer. Uses notes from Cialdini, Bly, Hormozi, Harry Dry, Tyson 4D and Stefan Georgi, then runs a humanizer pass last.
+description: Write or rewrite selling copy, then humanize it so it reads like a person wrote it. Use when someone asks to make copy better, write a hook, headline or subject line, or write or rewrite a cold email, DM, follow-up, sales page, landing page, social post, video script, flyer, ad, sales script or offer. Uses notes from Cialdini, Bly, Hormozi, Harry Dry, Tyson 4D, Stefan Georgi and the Copy That! channel, then runs a humanizer pass last.
 ---
 
 # Copywriter (copy first, humanizer last)
@@ -29,7 +29,8 @@ Always read `references/playbook.md` first. Then open the notes for the job in h
 | Sales call or in-person script, closing | `references/persuasion-levers.md` (commitment ladder) |
 | A product with no customers yet | `references/persuasion-levers.md` (the zero-customers section) |
 | Research before writing | `references/clear-writing-and-selling.md` |
-| Reviewing someone's copy | `references/social-video-ads-content.md` (reviewing copy) |
+| Reviewing someone's copy | `references/social-video-ads-content.md` (reviewing copy), `references/research-structure-editing.md` (CUB, "so what? prove it") |
+| Long sales page, email sequence, or anything that needs research first | `references/research-structure-editing.md` (awareness stages, Rule of One brief, customer-words research, five questions, OCPB) |
 
 Humanizer rules: `references/humanizer.md`.
 
@@ -38,6 +39,8 @@ Humanizer rules: `references/humanizer.md`.
 1. **Work out the job before writing.**
    - Name what it is, who reads it, where they come from, and the one action wanted.
    - Note what the reader believes, wants and fears now (belief A), and what they should believe after (belief B). Copy can't create desire, so aim at a worry they already have.
+   - Their awareness stage (unaware, problem aware, solution aware, product aware, most aware) decides the opening. Never go back over a stage they've passed.
+   - Use their words: quotes the user gives you or that you actually read (reviews, Reddit, forums). Never invent a customer quote. If there's no research, say so.
    - If the user didn't say, pick the likeliest answer and name it in one line.
 2. **Find the lead.** Find the one thing they get that rivals don't, and put it first. If nothing is truly different, own one use case ("when X happens, call us"). Pair the big promise with a small, easy-to-believe backup promise.
 3. **Follow the selling order:** their problem in their words, what it costs them, one promise as a benefit, proof, then one small next step.
@@ -53,7 +56,8 @@ Humanizer rules: `references/humanizer.md`.
    - A shared identity must be true for whoever sends the message.
    - Never imply a partnership or endorsement that doesn't exist, and never use "as seen in" logos you haven't earned.
    - A limited number of places beats a deadline. Say why the limit exists, and keep it.
-5. **Answer the top objection** honestly: in one line, an FAQ or the P.S.
+5. **Answer the top objection** honestly: in one line, an FAQ or the P.S. Use OCPB: the objection, a claim that answers it, proof (the mechanism counts), then what it means for them. Only answer doubts the reader really has. Raising new ones hands them a reason not to buy.
+   - Say how it works in a line or two, and show the benefit as a moment in their day, not an adjective. An invented moment must read as an example ("say a customer calls at 9pm"), never as something that happened.
 6. **Run the tests on every line.**
    - Harry Dry's three: Can I picture it? Can it be proved true or false? Could a competitor say it?
    - A cold reader should get it in two seconds. Clear beats clever.
@@ -74,7 +78,7 @@ Details in `references/hormozi-offers-leads.md`. These sit under the honesty rul
 - **Hooks: proof, promise, plan.** Reuse hooks that win; trust the data over cleverness.
 - **Posts = hook + retain + reward.** Headlines use 2+ of: recency, relevance, a well-known name, closeness, conflict, unusual, ongoing. Retain with lists, steps or stories. Say "how I", not "how to". Give 3-4 times for every ask.
 - **Ads = callout + value + CTA.** The first 5 seconds call out the buyer.
-- **Offers:** answer every doubt (not worth it, won't work for me, too hard, too slow). Name it with MAGIC (reason why, avatar, goal, interval, container word). Guarantees take the shape "If you don't get X in Y, we Z". Add a named bonus instead of a discount.
+- **Offers:** when designing the offer, list every doubt (not worth it, won't work for me, too hard, too slow) and fix each one; in the copy, answer only the ones the reader really has. Name it with MAGIC (reason why, avatar, goal, interval, container word). Guarantees take the shape "If you don't get X in Y, we Z". Add a named bonus instead of a discount.
 - **Lead magnets:** solve one narrow problem that reveals the next. Be specific about the bad, vaguer about the good.
 - **CTA:** clear, not clever, with a true reason to act now.
 - **Cold outreach:** 1-3 things a friend would know, real free value (never a disguised sales call), more follow-ups in more ways. When they reply: acknowledge, compliment, ask.
@@ -101,7 +105,8 @@ Details in `references/hormozi-offers-leads.md`. These sit under the honesty rul
   - Name the problem in the first 5 seconds.
   - Say the name and main benefit twice, and turn captions on.
   - Script about 110 words a minute.
-- **Length:** a page that sells directly can run long. A cold message sells only the reply.
+- **Length:** a page that sells directly can run as long as it takes to convince the one reader. A cold message sells only the reply, so its word limits always win.
+- **Pages:** the headline sets honest expectations, the lead ends when the reader thinks "OK, convince me", the body answers doubts, and the close lays out the offer part by part, then asks for one action. Add a summary P.S. Skip humour and puns.
 
 ## House rules
 
@@ -125,6 +130,11 @@ Run `references/humanizer.md` on the finished copy. Here, the copy pass's output
 ## Final check
 
 After both passes, run the playbook's 10-point check once more. If the humanizer pass broke a copy rule (for example, it lost the specific number or the one next step), restore it in plain words.
+
+Then check three more things:
+- **The five questions:** can the reader answer why this matters now, why it isn't something they already know, what they gain, how it delivers, and why they should trust the sender?
+- **"So what? Prove it."** Cut any line that does nothing for the reader or can't be proved.
+- **A CUB pass:** mark and fix lines that are Confusing, Unbelievable or Boring. For pages and long emails, suggest the user show the draft to 3 real buyers who mark only those. Never claim readers reviewed it.
 
 ## Output
 

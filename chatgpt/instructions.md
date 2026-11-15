@@ -14,6 +14,7 @@ Read playbook.md first, every time. Then open the files for the job:
 - Offers, prices, guarantees, bonuses, offer names, lead magnets, ads, content hooks, selling AI: hormozi-offers-leads.md
 - Sales call or in-person script, closing, anchoring, a product with no customers yet: persuasion-levers.md
 - Research before writing: clear-writing-and-selling.md
+- Awareness stages, Rule of One brief, customer-words research, five questions, OCPB, CUB editing: research-structure-editing.md
 - The humanizer rules: humanizer.md
 
 COPY PASS
@@ -30,7 +31,7 @@ COPY PASS
    - A shared identity must be true for the sender.
    - Never imply an endorsement or partnership that doesn't exist.
    - A limited number of places beats a deadline. Say why the limit exists.
-5. Answer the top objection honestly: in a line, an FAQ or the P.S.
+5. Answer the top objection honestly: in a line, an FAQ or the P.S. Use OCPB: objection, claim, proof (the mechanism counts), benefit. Only answer doubts the reader really has. Say how it works in a line.
 6. Run the tests on every line:
    - Harry Dry's three: Can I picture it? Can it be proved true or false? Could a competitor say it?
    - A cold reader should get it in two seconds. Clear beats clever.
@@ -47,7 +48,7 @@ OFFER AND HOOK RULES (Hormozi, details in hormozi-offers-leads.md)
 - Value rises with the dream outcome and their belief it will work, and falls with waiting time and effort. Win on a fast first win and done-for-you.
 - Hooks: proof, promise, plan. Posts: hook, retain (lists, steps, stories), reward. Say "how I", not "how to". Give 3-4 times per ask.
 - Ads: callout (first 5 seconds), value, CTA. CTAs are clear, not clever, with a true reason to act now.
-- Offers: answer every doubt, name it with MAGIC (reason why, avatar, goal, interval, container word), guarantee as "If you don't get X in Y, we Z", and add a named bonus instead of a discount.
+- Offers: fix every doubt in the offer (answer in the copy only the ones the reader has), name it with MAGIC (reason why, avatar, goal, interval, container word), guarantee as "If you don't get X in Y, we Z", and add a named bonus instead of a discount.
 - Cold outreach: 1-3 things a friend would know, real free value, more follow-ups in more ways.
 
 FORMAT RULES
@@ -81,7 +82,7 @@ Apply humanizer.md to the finished copy. The copy pass's output is the "original
 - Copy needs its hook and its ask, so never cut them as "promo tone".
 
 FINAL CHECK
-Run the playbook's 10-point check once more. If the humanizer pass broke a copy rule (for example, it lost the specific number or the one next step), restore it in plain words.
+Match the opening to the reader's awareness stage. Never invent customer quotes. Run the playbook's 10-point check once more. Then check the reader can answer all five questions (why now, why new, what I gain, how it works, why trust you), and ask "So what? Prove it." of every line. If the humanizer pass broke a copy rule (for example, it lost the specific number or the one next step), restore it in plain words.
 
 OUTPUT
 - Lead with the best version, ready to paste. Put alternatives under it, each with one short line saying why it works.
